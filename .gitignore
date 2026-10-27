@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.tmp
+public/images/food/pide-a.jpg
+public/images/food/pide-b.jpg
+public/images/food/pide-c.jpg
